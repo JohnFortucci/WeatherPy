@@ -1,0 +1,75 @@
+City_ID,City,Country,Lat,Lng,Max Temp,Humidity,Cloudiness,Wind Speed,Current Description
+0,Khani,GE,41.96,42.96,26.17,78,100,1.77,Clouds
+1,Qaanaaq,GL,77.48,-69.36,-7.44,98,100,0.49,Clouds
+2,Desaguadero,PE,-16.57,-69.04,47.17,76,100,8.1,Clouds
+3,Tiksi,RU,71.69,128.87,-16.8,99,98,1.36,Clouds
+4,Rikitea,PF,-23.12,-134.97,80.29,71,100,14.36,Clouds
+5,Hilo,US,19.73,-155.09,78.53,72,100,12.66,Clouds
+6,Bluff,NZ,-46.60,168.33,65.8,73,46,6.26,Clouds
+7,Itoman,JP,26.12,127.67,75.58,75,75,4.61,Clouds
+8,Sao Filipe,CV,14.90,-24.50,71.17,72,0,15.79,Clear
+9,Bolitoc,PH,15.74,119.88,87.15,60,54,4.92,Clouds
+10,Henties Bay,NA,-22.12,14.28,62.82,90,96,10.51,Clouds
+11,Thompson,CA,55.74,-97.86,3.36,60,40,13.8,Clouds
+12,Price,US,39.60,-110.81,40.12,60,0,8.05,Clear
+13,Dikson,RU,73.51,80.55,-5.13,98,100,16.2,Snow
+14,Ponta Do Sol,PT,32.67,-17.10,54.05,72,72,26.64,Clouds
+15,Jamestown,US,42.10,-79.24,32.02,48,100,10.36,Clouds
+16,Punta Arenas,CL,-53.15,-70.92,41.11,81,75,21.85,Rain
+17,Dangriga,BZ,16.97,-88.23,75.85,84,55,13.33,Clouds
+18,Gamba,GA,-2.65,10.00,76.6,91,100,4.7,Rain
+19,Erzin,TR,36.96,36.20,31.96,80,4,2.77,Clear
+20,Marienburg,PL,54.04,19.03,33.57,83,0,7.31,Clear
+21,Vaini,TO,-21.20,-175.20,84.36,79,40,5.75,Clouds
+22,Provideniya,RU,64.38,-173.30,21.36,53,0,8.99,Clear
+23,Atherton,GB,53.52,-2.49,43.43,89,4,3.04,Clear
+24,Mataura,NZ,-46.19,168.86,65.48,47,41,5.44,Clouds
+25,Tasiilaq,GL,65.61,-37.64,28.58,96,100,28.99,Snow
+26,Hirtshals,DK,57.59,9.96,38.66,76,74,16.64,Clouds
+27,Codrington,AU,-38.27,141.97,76.24,57,100,8.52,Rain
+28,Avarua,CK,-21.21,-159.78,84.25,74,20,5.75,Clouds
+29,Bereda,ES,43.27,-7.54,40.57,100,100,2.57,Clouds
+30,Petrovsk-Zabaykalskiy,RU,51.27,108.84,13.66,80,100,4.9,Clouds
+31,Hofn,IS,64.25,-15.21,34.79,48,0,6.76,Clear
+32,Avera,US,33.19,-82.53,38.91,36,1,5.21,Clear
+33,Chuy,UY,-33.70,-53.46,60.3,83,0,5.48,Clear
+34,Umm Lajj,SA,25.02,37.27,64.76,52,0,11.32,Clear
+35,Kaitangata,NZ,-46.28,169.85,63.84,66,26,6.73,Clouds
+36,Castro,BR,-24.79,-50.01,63.39,98,100,0.63,Clouds
+37,High Level,CA,58.52,-117.14,-2.09,60,20,0.0,Clouds
+38,Albany,US,42.60,-73.97,27.01,61,55,6.71,Clouds
+39,Cascais,PT,38.70,-9.42,54.52,72,34,13.0,Clouds
+40,Georgetown,MY,5.41,100.34,87.73,85,20,3.44,Clouds
+41,Emerald,AU,-23.53,148.17,86.14,35,56,11.5,Clouds
+42,Lebu,CL,-37.62,-73.65,57.22,82,0,18.19,Clear
+43,Ushuaia,AR,-54.80,-68.30,38.86,87,100,21.85,Rain
+44,Saint-Augustin,CA,51.23,-58.65,11.21,72,100,20.29,Clouds
+45,Isangel,VU,-19.55,169.27,85.73,66,71,2.04,Clouds
+46,Sitka,US,57.05,-135.33,42.69,56,100,17.27,Clouds
+47,Walvis Bay,NA,-22.96,14.51,61.09,94,35,1.14,Clouds
+48,Kambove,CD,-10.88,26.60,58.62,94,100,2.73,Clouds
+49,Rafaela,AR,-31.25,-61.49,66.97,49,26,4.56,Clouds
+50,Dunedin,NZ,-45.87,170.50,65.8,61,45,5.01,Clouds
+51,Tambo,PE,-14.80,-73.92,37.17,96,100,5.35,Clouds
+52,Lagoa,PT,39.05,-27.98,55.26,62,98,9.82,Clouds
+53,Northam,GB,51.03,-4.22,42.26,92,45,5.93,Clouds
+54,Tchaourou,BJ,8.89,2.60,80.08,65,77,5.41,Clouds
+55,Iqaluit,CA,63.75,-68.51,-25.87,75,20,10.36,Clouds
+56,Cape Town,ZA,-33.93,18.42,58.12,66,40,5.75,Clouds
+57,Busselton,AU,-33.65,115.33,75.7,59,52,5.61,Clouds
+58,Saldanha,ZA,-33.01,17.94,51.85,63,92,16.13,Clouds
+59,Hobart,AU,-42.88,147.33,64.26,85,75,12.66,Clouds
+60,Eydhafushi,MV,5.10,73.07,82.33,74,100,5.57,Clouds
+61,Conceicao Do Araguaia,BR,-8.26,-49.26,73.22,95,4,3.11,Clear
+62,Padang,ID,-0.95,100.35,78.85,85,93,2.55,Clouds
+63,Luderitz,NA,-26.65,15.16,62.64,68,0,27.89,Clear
+64,Champerico,GT,14.30,-91.92,80.74,72,7,7.2,Clear
+65,North Bend,US,43.41,-124.22,51.93,87,100,11.5,Clouds
+66,Kayerkan,RU,69.35,87.76,-6.48,76,100,5.01,Clouds
+67,Cidreira,BR,-30.18,-50.21,69.75,86,100,11.39,Clouds
+68,Dicabisagan,PH,17.08,122.42,82.02,76,28,2.35,Clouds
+69,New Norfolk,AU,-42.78,147.06,63.9,64,100,1.01,Clouds
+70,Hermanus,ZA,-34.42,19.23,51.8,67,67,11.34,Rain
+71,Passo De Camaragibe,BR,-9.24,-35.49,78.35,87,69,1.43,Clouds
+72,Talcahuano,CL,-36.72,-73.12,62.28,67,0,2.3,Clear
+73,Bac Lieu,VN,9.29,105.72,84.09,70,21,16.06,Clouds
